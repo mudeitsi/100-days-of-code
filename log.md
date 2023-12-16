@@ -7,7 +7,7 @@
 
 **Thoughts:** I hope I manage to create a prototype and flowchart using Figma tomorrow.
 
-**Link to work:** https://github.com/mudeitsi/E-Commerce_Website
+**Link to work:** https://github.com/mudeitsi/OctaMart
 
 
 ### Day 0: December 15, 2023
@@ -22,3 +22,17 @@
 
 **Link to work:** https://github.com/mudeitsi/OctaMart
 
+### Day 1: December 16, 2023
+
+
+**Today's Progress**: Today I:
+1. debugged an image product display error. I had the image URL link wrong. 
+2. deleted all the products I created on the Octamart.js/main file.
+3. created an array for all products, thus creating a products dataset and saved it as a separate JavaScript file in /data/products.js
+4. generated the products' HTML from JavaScript by looping through the products.js dataset.
+5. added the products.js script source file onto the HTML page.
+6. made the "Add to Cart" button responsive.
+
+**Thoughts:** So far, so good. I still have to look at the "Add to Cart" button's responsiveness. A bug. ☺️☺️
+
+**Link to work:** https://github.com/mudeitsi/OctaMart
