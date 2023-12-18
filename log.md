@@ -36,3 +36,16 @@
 **Thoughts:** So far, so good. I still have to look at the "Add to Cart" button's responsiveness. A bug. ☺️☺️
 
 **Link to work:** https://github.com/mudeitsi/OctaMart
+
+
+### Day 2: December 18, 2023
+
+
+**Today's Progress**: Today I:
+1. made a few changes on the logo images. 
+2. made changes on the CSS files regarding colours and button behaviour. 
+6. made the "Add to Cart" button responsive.
+
+**Thoughts:** So far, so good. ☺️☺️
+
+**Link to work:** https://github.com/mudeitsi/OctaMart
