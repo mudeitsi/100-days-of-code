@@ -49,3 +49,28 @@
 **Thoughts:** So far, so good. ☺️☺️
 
 **Link to work:** https://github.com/mudeitsi/OctaMart
+
+### Day 3: December 26, 2023
+
+
+**Today's Progress**: Today I:
+1. made changes to the project outline.
+2. decided to implement the frontend using React.js as I learn it. ☺️☺️
+6. made some changes to the prototype.
+
+**Thoughts:** Coming back from a well-deserved break.
+
+**Link to work:** https://github.com/mudeitsi/OctaMart
+
+### Day 4: December 27, 2023
+
+
+**Today's Progress**: Today I:
+1. made additional changes to the prototype.
+2. re-created responsive templates for home page, product listing page, product details page, shopping cart and checkout pages.
+6. completed changes to the prototype (for now}.
+
+**Thoughts:** I need to create a page for the user accounts.
+
+**Link to work:** https://github.com/mudeitsi/OctaMart
+
