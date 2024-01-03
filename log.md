@@ -74,3 +74,11 @@
 
 **Link to work:** https://github.com/mudeitsi/OctaMart
 
+Day 5: January 03, 2024
+Today's Progress: Today I:
+
+worked on the the Cart details page by working on the HTML, CSS and JavaScript files for the page.
+Thoughts: Happy New Year! This is challenging, but still possible.
+
+Link to work: https://github.com/mudeitsi/OctaMart
+
