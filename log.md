@@ -89,5 +89,5 @@ I began an internship at Prodigy InfoTech and decided to include the projects in
 The first project was to create a temperature converter web app.
 I impletemted a simple, responsive, user-friendly temperature conversion app using HTML, CSS and JavaScript.
 
-Link to work:(https://lnkd.in/dNY8k7vt)https://lnkd.in/dNY8k7vt
+Link to work: https://github.com/mudeitsi/PRODIGY_SD_01
 
