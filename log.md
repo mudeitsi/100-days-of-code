@@ -82,3 +82,12 @@ Thoughts: Happy New Year! This is challenging, but still possible.
 
 Link to work: https://github.com/mudeitsi/OctaMart
 
+Day 6: January 03, 2024
+Today's Progress: Today I:
+
+I began an internship at Prodigy InfoTech and decided to include the projects in the challenge. 
+The first project was to create a temperature converter web app.
+I impletemted a simple, responsive, user-friendly temperature conversion app using HTML, CSS and JavaScript.
+
+Link to work:(https://lnkd.in/dNY8k7vt)https://lnkd.in/dNY8k7vt
+
