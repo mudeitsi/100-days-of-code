@@ -82,7 +82,7 @@ Thoughts: Happy New Year! This is challenging, but still possible.
 
 Link to work: https://github.com/mudeitsi/OctaMart
 
-Day 6: January 03, 2024
+Day 6: January 24, 2024
 Today's Progress: Today I:
 
 I began an internship at Prodigy InfoTech and decided to include the projects in the challenge. 
@@ -90,4 +90,15 @@ The first project was to create a temperature converter web app.
 I impletemted a simple, responsive, user-friendly temperature conversion app using HTML, CSS and JavaScript.
 
 Link to work: https://github.com/mudeitsi/PRODIGY_SD_01
+
+### Day 7: January 25, 2024
+
+**Today's Progress**: Today I:
+
+I began the second project on my internship. The project is to create a simple guessing game.
+I published the README.md file for the project onto the project's repository. 
+I created the algorithm to be used.
+I will be creating the game using Python. I will implement a simple GUI by using Tkinter.
+
+**Link to work**: https://github.com/mudeitsi/PRODIGY_SD_02
 
