@@ -102,3 +102,13 @@ I will be creating the game using Python. I will implement a simple GUI by using
 
 **Link to work**: https://github.com/mudeitsi/PRODIGY_SD_02
 
+### Day 8: January 25, 2024
+
+**Today's Progress**: 
+
+Today I started working on the GUI for the guessing game app, which I named GuessMaster. I'm using Tkinter to build this GUI.
+
+
+**Link to work**: https://github.com/mudeitsi/PRODIGY_SD_02
+
+
