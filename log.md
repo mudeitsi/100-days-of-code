@@ -120,3 +120,13 @@ Today I made a few changes to the GUI. I'm still trying to figure out some setup
 
 **Link to work**: https://github.com/mudeitsi/PRODIGY_SD_02
 
+### Day 9: January 29, 2024
+
+**Today's Progress**: 
+
+I made some changes to the GUI  and wrote code for the logic of the game. 
+I created the demo video for the game.
+
+**Link to work**: https://github.com/mudeitsi/PRODIGY_SD_02
+
+
