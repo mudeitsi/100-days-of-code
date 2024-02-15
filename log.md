@@ -138,7 +138,7 @@ Enjoy. Happy Valentine's
 
 **Link to work**: https://github.com/mudeitsi/Valentine
 
-### Day 12: February 13, 2024
+### Day 12: February 14, 2024
 
 **Today's Progress**: 
 I created the README.md file for my third project which is a Sudoku solver that I named Sudoku Mastermind
@@ -147,7 +147,7 @@ I worked on the algorithm and for the game.
 
 **Link to work**: https://github.com/mudeitsi/PRODIGY_SD_04
 
-### Day 13: February 13, 2024
+### Day 13: February 15, 2024
 
 **Today's Progress**: 
 I worked on the code for the Sudoku Mastermind sudoku solver
