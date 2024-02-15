@@ -120,7 +120,7 @@ Today I made a few changes to the GUI. I'm still trying to figure out some setup
 
 **Link to work**: https://github.com/mudeitsi/PRODIGY_SD_02
 
-### Day 9: January 29, 2024
+### Day 10: January 29, 2024
 
 **Today's Progress**: 
 
@@ -128,5 +128,36 @@ I made some changes to the GUI  and wrote code for the logic of the game.
 I created the demo video for the game.
 
 **Link to work**: https://github.com/mudeitsi/PRODIGY_SD_02
+
+### Day 11: February 13, 2024
+
+**Today's Progress**: 
+It's been a moment. I've faced a few challenges, but I'm back.
+The joy of being able to code is when you can get to do more than write a love poem or song for Valentine's Day. You get to be above the ordinary. I've made a simple virtual Valentine's greeting card. An upgrade to love messages.
+Enjoy. Happy Valentine's
+
+**Link to work**: https://github.com/mudeitsi/Valentine
+
+### Day 12: February 13, 2024
+
+**Today's Progress**: 
+I created the README.md file for my third project which is a Sudoku solver that I named Sudoku Mastermind
+I decided to work using Tkinter. 
+I worked on the algorithm and for the game. 
+
+**Link to work**: https://github.com/mudeitsi/PRODIGY_SD_04
+
+### Day 13: February 13, 2024
+
+**Today's Progress**: 
+I worked on the code for the Sudoku Mastermind sudoku solver
+I worked on the GUI using Tkinter and completed the project.
+
+
+**Link to work**: https://github.com/mudeitsi/PRODIGY_SD_04
+
+
+
+
 
 
