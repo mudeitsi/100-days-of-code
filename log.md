@@ -156,6 +156,14 @@ I worked on the GUI using Tkinter and completed the project.
 
 **Link to work**: https://github.com/mudeitsi/PRODIGY_SD_04
 
+### Day 14: February 16, 2024
+
+**Today's Progress**: 
+I worked on a simple contact management system that I named Contact Vault.
+I created the app using Tkinter and SQLite.
+I finalised my last project for my Prodigy Infotech internship.
+
+**Link to work**: https://github.com/mudeitsi/PRODIGY_SD_03
 
 
 
